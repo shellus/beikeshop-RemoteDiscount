@@ -1,0 +1,18 @@
+{
+    "code": "remote_discount",
+    "name": {
+        "zh_cn": "远程查询折扣，用于对接外部系统",
+        "en": "Remote query discount, used to connect external systems"
+    },
+    "description": {
+        "zh_cn": "远程查询折扣，用于对接外部系统",
+        "en": "Remote query discount, used to connect external systems"
+    },
+    "type": "feature",
+    "version": "v1.0.0",
+    "icon": "/image/logo.png",
+    "author": {
+        "name": "shellus",
+        "email": "353358601@qq.com"
+    }
+}
